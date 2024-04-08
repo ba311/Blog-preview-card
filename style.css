@@ -18,14 +18,16 @@ body {
     border-radius: 20px;
     margin: auto;
     text-align: start;
+    box-shadow: 10px 10px;
     
 }
 
 .card_image {
     width: 280px;
-    height: 180px;
+    height: 200px;
     border-radius: 10px;
     margin: 16px;
+    background-image: url('assets/images/illustration-article.svg');
 }
 
 .card_button {
